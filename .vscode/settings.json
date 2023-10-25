@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/4f3986eb-1fa2-442a-b1ee-b722de2d4130/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/hide-face",
+    "appService.deploySubpath": "."
+}
